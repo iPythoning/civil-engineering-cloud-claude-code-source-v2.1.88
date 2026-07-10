@@ -1,5 +1,9 @@
 # Claude Code Source v2.1.88
 
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 > **Claude Code Source** v2.1.88 源码泄露存档合集 -- 整合自三个不同来源，涵盖从原始破解还原到可直接运行的完整版本。**Claude Code** 源码、**v2.1.88** 下载、**Claude Code** 破解版、**Claude Code** 完整源码。
 
 ---
@@ -265,6 +269,10 @@ src/
 - 五维属性：调试能力、耐心、混沌值、智慧、毒舌
 - 可以戴帽子
 - 以对话气泡形式停留在输入框旁边
+
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ### 3. Coordinator Mode -- 多智能体编排
 
@@ -535,6 +543,6 @@ export CLAUDE_CODE_MAX_OUTPUT_TOKENS=16384
 - 如有侵权，请联系删除
 - 本仓库不隶属于、未经 Anthropic 认可或维护
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
